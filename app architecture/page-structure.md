@@ -1,8 +1,13 @@
 <!--Readme-->
 <!--This document outline the overall structure of the app pages-->
 
-1. Homepage/Landing Page
-    - Purpose: the first page when user go to bugtrackr.com
-    - What the page will show to users?
-        - standard landing page that show the overview of the app
-        - 
+# List of pages
+- user registration page
+- user login page
+- forgot password page (just set new password)
+- bug list page (once user logged in)
+- bug detail page (once user click on a particular bug to see the details)
+    - bug detail information
+    - comment section
+- create/report new bug page
+
