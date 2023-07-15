@@ -1,17 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-07-15T16:59:52.787Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="_0mGb32Qe4hvbvLLDS7F" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-15T17:07:55.455Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="etZvCjwFq9_DRdcjl0kq" version="21.5.0" type="github">
   <diagram name="Page-1" id="_tDifnn3e8123jFDLJFk">
     <mxGraphModel dx="794" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rk9TEI3oLJ-p9ymMfvrs-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rk9TEI3oLJ-p9ymMfvrs-1" target="rk9TEI3oLJ-p9ymMfvrs-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rk9TEI3oLJ-p9ymMfvrs-1" value="HOMEPAGE /&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rk9TEI3oLJ-p9ymMfvrs-1" value="HOMEPAGE / LANDING PAGE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rk9TEI3oLJ-p9ymMfvrs-2" value="LOGIN PAGE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rk9TEI3oLJ-p9ymMfvrs-5" value="SIGN-UP&lt;br&gt;PAGE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rk9TEI3oLJ-p9ymMfvrs-6" value="MAIN APP PAGE (DASHBOARD)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rk9TEI3oLJ-p9ymMfvrs-7" value="FORGOT PASSWORD PAGE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
